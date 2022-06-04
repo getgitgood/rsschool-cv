@@ -1,2 +1,1 @@
-# rsschool-cv
-https://github.com/getgitgood/rsschool-cv/blob/gh-pages/cv.md
+1. [***SV LINK***](https://getgitgood.github.io/rsschool-cv/cv)
