@@ -3,10 +3,10 @@
 1. **Name:**  
    *Nikolai Shvechkov*
 
-2. **Touch:**  
+2. **Get in touch:**  
    discord:rs_school:*Nukers(@GitHub-getgitgood)*
 
-3. **About me and why I'm learning here:**  
+3. **About me and why I am here:**  
    *IMHO, learning a something new always hold your discipline*
    *and concentration on the right level and open the new opportunities.*
    *This is what my DNA test says about my strong sides:*  
@@ -49,7 +49,7 @@
    *Random english tests from internet says it's A2, pre-intermediate. Voice chatting with random folks from net... ~~both sides were satisfied.~~*
 
 9. **Avatar:**  
-   *Personaly I like that one:*
+   *Personaly I like this one:*
    
    ![personaly like that one](https://user-images.githubusercontent.com/106710399/172007877-1c1c8a9b-85f9-4da9-ae1c-ee40d9565cb2.jpg)
 
