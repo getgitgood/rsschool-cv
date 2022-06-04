@@ -7,7 +7,7 @@
    discord:rs_school:*Nukers(@GitHub-getgitgood)*
 
 3. **About me and why I'm learning here:**  
-   *Imho, learning a something new always hold your discipline*
+   *IMHO, learning a something new always hold your discipline*
    *and concentration on the right level and open the new opportunities.*
    *This is what my DNA test says about my strong sides:*  
 
@@ -43,7 +43,7 @@
    *No commercial development expirience, also no projects for right now what I'm able to show without totaly uncomfortable amount of shame so far. But here's my **[CV](https://github.com/getgitgood/rsschool-cv/blob/gh-pages/cv.md)**.*
 
 7. **Education:**  
-   *I'm leaved the law school on 3rd year of studying, because of family circumstances. And tbh, after a while I can say clearly - law school just isn't for me. Aside from that - few courses on www.stepik.org.*
+   *I'm leaved the law school on 3rd year of studying, because of family circumstances. And TBH, after a while I can say clearly - law school just isn't for me. Aside from that - few courses on www.stepik.org.*
 
 8. **English proficiency:**  
    *Random english tests from internet says it's A2, pre-intermediate. Voice chatting with random folks from net... ~~both sides were satisfied.~~*
