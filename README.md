@@ -1,2 +1,3 @@
-# rsschool-cv
-reloading of previous rsschool-cv repo, since I have make so many mistakes at stage-0
+> My CV availiable [HERE](https://getgitgood.github.io/rsschool-cv/cv).
+
+> Note: <br> I re-initialized my previous RSSchool-CV repository because I had made several mistakes during stage-0.
