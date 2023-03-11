@@ -103,3 +103,16 @@ The rgb function is incomplete. Complete it so that passing in RGB decimal value
 <hr>
 <br>
 
+## ***Language skills***
+
+<br>
+
+> - ### ***Russian*** > ***Native***
+> - ### ***English*** > ***According to [EFSET TEST](https://www.efset.org/cert/9yRxEi) it's C2***
+
+<br>
+<hr>
+<br>
+
+> # ***Be safe.***
+<hr>
