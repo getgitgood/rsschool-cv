@@ -1,27 +1,24 @@
 ## ***Greetings. My name is***  
 <br>
 
-> ## ***Nikolai Shvechkov***
+> ### ***Nikolai Shvechkov***
 <br>
 <hr>
 <br>
 
-## ***Feel free to contact me***
+### ***Feel free to contact me***
 <br>
 
-> ***via Discord:*** 
-  > - #### ***RS School Server: Nukers(@GitHub-getgitgood)***
-> ***via Telegram:*** 
-  > - #### ***doabarellroll***
-> ***Github***
-  > - #### ***https://github.com/getgitgood***
+> - ***[Discord](https://discord.com/users/rehash3r#6257)***  
+> - ***[Telegram](https://t.me/doabarellroll)***  
+> - ***[Github](https://github.com/getgitgood*)***
 
 
 <br>
 <hr>
 <br>
 
-## ***A little about myself***
+### ***A little about myself***
 <br>
 
 > I've been passionate about technology ever since I received my first computer as a gift at the age of 6. From that moment on, I knew that I wanted to explore the endless possibilities that computers could offer.<br><br>
@@ -32,7 +29,7 @@ My goal is to create engaging and user-friendly websites that are visually appea
 <hr>
 <br>
 
-## ***Programming languages***
+### ***Programming languages & Technologies***
 <br>
 
 > Since I've already completed the [RS Pre-School Course](https://rs.school/js-stage0/) I have gained knowledge in 
@@ -50,13 +47,13 @@ My goal is to create engaging and user-friendly websites that are visually appea
 <hr>
 <br>
 
-## ***Code sample***
+### ***Code sample***
 <br>
 
 
 > ***Problem:*** <br>
 The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.
-<br>***[Link to problem on codewars.com](https://www.codewars.com/kata/513e08acc600c94f01000001)***
+<br>***link to a problem on [codewars.com](https://www.codewars.com/kata/513e08acc600c94f01000001)***
 
 <br>
 <details>
@@ -82,28 +79,30 @@ The rgb function is incomplete. Complete it so that passing in RGB decimal value
 <hr>
 <br>
 
-## ***Development experience***
+### ***Development experience***
 
 <br>
 
-> [**Momentum**](https://getgitgood-momentum.netlify.app/) *- Ommauge at famous [Google App](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)*
+> [**Momentum**](https://getgitgood-momentum.netlify.app/) *- Homage on the famous Google App [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)*.
 
-> [**Plants**](https://rolling-scopes-school.github.io/getgitgood-JSFEPRESCHOOL2022Q4/plants/) *- Garden groceries landing page.*
-
-<br>
-<hr>
-<br>
-
-## ***Education***
-<br>
-
-> **Moscow Law University**
+> [**Plants**](https://rolling-scopes-school.github.io/getgitgood-JSFEPRESCHOOL2022Q4/plants/) *- Gardening shop landing page.*
 
 <br>
 <hr>
 <br>
 
-## ***Language skills***
+### ***Education***
+<br>
+
+> - **Moscow Law University**
+> - **RS School [Stage 0](https://app.rs.school/certificate/m48ci065) course** 
+> - **Some courses on [Stepik](https://www.stepik.org) platform**
+
+<br>
+<hr>
+<br>
+
+### ***Language skills***
 
 <br>
 
@@ -114,5 +113,4 @@ The rgb function is incomplete. Complete it so that passing in RGB decimal value
 <hr>
 <br>
 
-> # ***Be safe.***
-<hr>
+> # ***Good luck and be safe.***
