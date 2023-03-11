@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>CV</title>
+</head>
+
+<body>
+  <header>
+    <div class="wrapper header__wrapper">
+      <nav class="nav">
+        <ul>
+          <li><a href="#contacts">Contacts</a></li>
+          <li><a href="#about">About me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#code">Code</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#education">Education</a></li>
+        </ul>
+      </nav>
+      <div class="block header__block">
+        <img src="img/justme.png" alt="avatar">
+        <h1>Nikolai Shvechkov</h1>
+          <figure>
+            <blockquote>
+              <p class="quote">- Do what you have to and come what may.</p>
+            </blockquote>
+            <figcaption>- Marcus Aurelius Antoninus, 179 A.D.</figcaption>
+          </figure>
+            
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <div class="wrapper wrapper__main">
+      <div class="grid__layout">
+        <div class="grid__col-left">
+          <div class="block location__block">   
+            <img src="img/pin.png" alt="location">
+            Saint Petersburg, Russia
+          </div>
+          <h2 id="contacts">Contact me via:</h2>
+          <ul class="contacts">          
+            <li class="contacts__item"><img src="img/discord.png" alt="discord__icon"><a href="https://discord.com/users/rehash3r#6257">Discord</a></li>
+            <li class="contacts__item"><img src="img/tg.png" alt="tg icon"><a href="https://t.me/cvfeedback">Telegram</a></li>
+          </ul>
+            <p>Feel free to contact me with a proposals to advance or your ideas or work-together projects!</p>
+        </div>
+        <div class="grid__col-right">
+          <h2 id="about">About me</h2>
+          <p> I've been passionate about technology ever since I received my first computer as a gift at the age of 6. From that moment on, I knew that I wanted to explore the endless possibilities that computers could offer.</p>
+          <p>I enjoy collaborating with others and believe that building strong relationships is an essential part of creating successful projects.</p>
+
+          <p>My goal is to create engaging and user-friendly websites that are visually appealing and easy to use. I'm always learning and exploring new technologies and techniques to stay up-to-date with the latest trends in web development.</p>
+          
+          <h2 id="skills">Skills</h2>
+          <div class="skills__notation">
+            <span>Hard skills</span> 
+            <span>Soft-skills</span>
+          </div>
+          <div class="skills__block">
+            <ul class="hard__skill__items">
+              <li><span class="skills__item">JS</span><progress  value="20" max="100">20%</progress></li>
+              <li><span class="skills__item">HTML</span><label></label>
+              <progress value="25" max="100">25%</progress> </li>
+              <li><span class="skills__item">CSS</span><label></label>
+              <progress value="25" max="100">25%</progress> </li>
+              <li><span class="skills__item">GitHub</span><label></label>
+              <progress value="20" max="100">20%</progress> </li>
+              <li><span class="skills__item">Git</span><label></label>
+              <progress value="20" max="100">20%</progress> </li>
+              <li><span class="skills__item">Python</span><label></label>
+              <progress value="10" max="100">10%</progress> </li>
+            </ul>
+            <ul class="soft__skill__items">
+              <li><span class="skills__item">Communication</span><progress value="85" max="100">85%</progress></li>
+              <li><span class="skills__item">Assiduty</span><label></label>
+              <progress value="95" max="100">95%</progress> </li>
+              <li><span class="skills__item">Fast Learning</span><label></label>
+              <progress  value="80" max="100">80%</progress> </li>
+            </ul>
+          </div>
+          <h2 id="code">Code sample</h2>
+          <p><img class="link__icon" src="img/link.png" alt="link_icon"><a href="https://www.codewars.com/kata/513e08acc600c94f01000001">Link to codewars problem</a></p>
+          <div class="code">
+            <pre>
+              <code>
+  function rgb(r, g, b) {
+    const <var>arr</var> = [r, g, b];
+    let <var>hex</var> = '';
+    for (let <var>color</var> of arr) {
+      <var>color</var> &lt; 0 ? <var>color</var> = 0 : <var>color</var> &gt; 255 ? <var>color</var> = 255 : <var>color</var>;
+      <var>hex</var> += <var>color</var>.toString(16).length === 1 ? 
+      <var>color</var>.toString(16).padStart(2, '0') : <var>color</var>.toString(16)
+      }
+    return <var>hex</var>.toUpperCase();
+    }
+              </code>
+            </pre>
+          </div>
+          <div class="projects-block">
+            <h2 id="projects">Projects</h2>
+            <p><a href="https://getgitgood-momentum.netlify.app/">Momentum</a> - Homage on the famous Google App <a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca">Momentum</a></p>
+            <p><a href="https://rolling-scopes-school.github.io/getgitgood-JSFEPRESCHOOL2022Q4/plants/">Plants</a> - Gardening shop landing page.</p>
+          </div>
+          <h2 id="education">Education info</h2>
+          <div class="education-block">
+            <p>Moscow Law University</p>
+            <p>RS School <a href="https://app.rs.school/certificate/m48ci065">Stage 0 </a>course</p>
+            <p>Some courses on <a href="https://www.stepik.org">Stepik </a>platform</p>
+          </div>
+          <h2>Language skills</h2>
+          <p>Russian &gt; Native</p>
+          <p>English &gt; I have taken the EF SET advance online test and received a <img class='link__icon' src="img/link.png" alt="link icon"><a href="https://www.efset.org/cert/9yRxEi">C2 Proficient </a>level, although I personally have some doubts about the accuracy of the result.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="wrapper wrapper__footer">
+      <div class="block footer__block">
+        <time datetime="2022-12-18">2023</time>
+        <span>by Nikolai Shvechkov</span>
+      </div>
+      <div class="block footer__block">
+        <img src="img/github-mark.png" alt="github-logo">
+        <a href="https://github.com/getgitgood/rsschool-cv">Github page</a>
+      </div>
+      <div class="block footer__block"> 
+        <a href="https://rs.school/js-stage0">
+          <span>
+            <object data="https://rs.school/images/rs_school_js.svg" type="image/svg+xml">
+              Your browser doesn't support svg
+            </object>
+          </span>
+        </a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
